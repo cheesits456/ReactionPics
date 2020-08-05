@@ -10,6 +10,8 @@ In order to reduce file sizes so that images load faster, a couple things have b
 - GIFs have been limited to a maximum of 50 unique colors per frame
 - Lossy compression is applied to each frame of the GIFs
 
+Also, the files are all scaled to a height of 200 pixels, so that they don't take up too much space when used in chat
+
 ### Folder/Branch Structure
 - The `images` folder on the `master` branch contains all the reaction images
 - The `gh-pages` branch is used to create links to the images
