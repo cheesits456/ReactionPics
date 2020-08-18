@@ -21,5 +21,5 @@ All files in the `images` folder can be linked to using `https://pics.c456.xyz/{
 
 #### Examples:
 | <https://pics.c456.xyz/dab>               | <https://pics.c456.xyz/dunno>                   | <https://pics.c456.xyz/no>             |
-|:----------------------------------------- |:----------------------------------------------- |:-------------------------------------- |
+|:------------------------------------------|:------------------------------------------------|:---------------------------------------|
 | ![Dab](https://pics.c456.xyz/dab/dab.jpg) | ![Dunno](https://pics.c456.xyz/dunno/dunno.gif) | ![No](https://pics.c456.xyz/no/no.jpg) |
