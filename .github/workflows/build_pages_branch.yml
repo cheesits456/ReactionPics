@@ -31,7 +31,6 @@ jobs:
           rm -rf ./ReactionPics/
           git config user.name github-actions
           git config user.email github-actions@github.com
-          git add .
-          git commit -m "Automatic Build of gh-pages branch"
-          GIT_TRACE=0 git push
+          echo `git add . && git commit -m "Automatic Build of gh-pages branch"`
+          git push
           echo Done!
