@@ -37,5 +37,8 @@ jobs:
           
       - name: Clean up and push branch
         run: |
-          echo $PWD
-          ls
+          cd ..
+          rm -rf ./ReactionPics/
+          git add .
+          git commit -m "Automatic Build of gh-pages branch"
+          git push
