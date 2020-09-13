@@ -33,5 +33,5 @@ jobs:
           git config user.email github-actions@github.com
           git add .
           git commit -m "Automatic Build of gh-pages branch"
-          git push 2>&1
+          GIT_TRACE=0 git push
           echo Done!
