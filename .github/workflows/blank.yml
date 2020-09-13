@@ -18,18 +18,10 @@ jobs:
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v2
-        
-      - name: Setup Node.js environment
-        uses: actions/setup-node@v2-beta
-        with:
-          node-version: 14.x
 
       # Runs a single command using the runners shell
-      - name: test
-        run: echo "console.log('test')" | node
-
-      # Runs a set of commands using the runners shell
-      - name: Run a multi-line script
+      - name: Set up environment
         run: |
-          echo Add other actions to build,
-          echo test, and deploy your project.
+          git switch gh-pages
+          git clone https://github.com/cheesits456/ReactionPics.git
+          ls
