@@ -34,3 +34,8 @@ jobs:
         run: |
           cd ..
           node ./ReactionPics/build.js
+          
+      - name: Clean up and push branch
+        run: |
+          echo $PWD
+          ls
