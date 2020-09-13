@@ -31,4 +31,6 @@ jobs:
           git clone https://github.com/cheesits456/ReactionPics.git
 
       - name: Run Node script
-        run: node ReactionPics/build.js
+        run: |
+          cd ..
+          node ./ReactionPics/build.js
