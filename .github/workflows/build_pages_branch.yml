@@ -32,6 +32,5 @@ jobs:
 
       - name: Run Node script
         run: |
-          echo $PWD
-          ls
-          node ./build.js
+          cd ..
+          node ./ReactionPics/build.js
