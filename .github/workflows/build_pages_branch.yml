@@ -18,10 +18,17 @@ jobs:
     steps:
       - uses: actions/checkout@v2
         
+      - name: Set up Node
+        uses: actions/setup-node@v2-beta
+        with:
+          node-version: '14.x'
+        
       - name: Set up environment
         run: |
           git clone https://github.com/cheesits456/ReactionPics.git
           cd ReactionPics
           git switch gh-pages
           git clone https://github.com/cheesits456/ReactionPics.git
-          ls
+
+      - name: Run Node script
+        run: node ReactionPics/build.js
