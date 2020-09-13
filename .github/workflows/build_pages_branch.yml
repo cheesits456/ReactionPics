@@ -17,6 +17,9 @@ jobs:
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
       - uses: actions/checkout@v2
+        with:
+          repository: cheesits456/ReactionPics
+          ref: gh-pages
         
       - name: Set up Node
         uses: actions/setup-node@v2-beta
@@ -24,21 +27,16 @@ jobs:
           node-version: '14.x'
         
       - name: Set up environment
-        run: |
-          git clone https://github.com/cheesits456/ReactionPics.git
-          cd ReactionPics
-          git switch gh-pages
-          git clone https://github.com/cheesits456/ReactionPics.git
+        run: git clone https://github.com/cheesits456/ReactionPics.git
 
       - name: Run Node script
-        run: |
-          cd ..
-          node ./ReactionPics/build.js
+        run: node ./ReactionPics/build.js
           
       - name: Clean up and push branch
         run: |
-          cd ..
           rm -rf ./ReactionPics/
+          git config user.name github-actions
+          git config user.email github-actions@github.com
           git add .
           git commit -m "Automatic Build of gh-pages branch"
-          git push --force origin gh-pages
+          git push
