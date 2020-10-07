@@ -1,6 +1,6 @@
 const fs = require("fs");
 
-const template = fs.readFileSync("./ReactionPics/index.html.template", "utf8");
+const template = fs.readFileSync("./ReactionPics/template.html", "utf8");
 const images = fs.readdirSync("./ReactionPics/images");
 
 fs.copyFileSync("./ReactionPics/README.md", "./README.md");
