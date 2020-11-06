@@ -24,7 +24,7 @@ jobs:
         run: git clone https://github.com/cheesits456/ReactionPics.git
 
       - name: Run Node script
-        run: node ./ReactionPics/build.js
+        run: node ./ReactionPics/build.js ${{ github.event.head_commit.message }}
           
       - name: Clean up and push branch
         run: |
