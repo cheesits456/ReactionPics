@@ -16,7 +16,7 @@ switch (process.argv[2]) {
 				template.replace(/{name}/g, name).replace(/{type}/g, type),
 				"utf8"
 			);
-		}
+		} else console.log("Nothing to do");
 		break;
 
 	case "Update":
@@ -29,7 +29,7 @@ switch (process.argv[2]) {
 				`./ReactionPics/images/${process.argv[3]}`,
 				`./${process.argv[3].split(".")[0]}/${process.argv[3]}`
 			);
-		}
+		} else console.log("Nothing to do");
 		break;
 
 	default:
