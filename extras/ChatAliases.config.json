@@ -324,6 +324,15 @@
 			"regex": false,
 			"replace": "https://pics.c456.xyz/nope"
 		},
+		"/nou": {
+			"autoc": true,
+			"case": false,
+			"exact": true,
+			"file": false,
+			"filedata": null,
+			"regex": false,
+			"replace": "https://pics.c456.xyz/nou"
+		},
 		"/ohno": {
 			"autoc": true,
 			"case": false,
