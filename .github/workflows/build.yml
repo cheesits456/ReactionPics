@@ -24,8 +24,8 @@ jobs:
       - name: Clean up and push branch
         run: |
           rm -rf ./ReactionPics/
-          git config user.name github-actions
-          git config user.email github-actions@github.com
+          git config user.name cheesbot456
+          git config user.email quin@cheesits456.dev
           echo `git add . && git commit -m "${{ github.event.head_commit.message }}"`
           git push
           echo Done!
@@ -45,8 +45,8 @@ jobs:
         run: node ./scripts/build-extras.js
       - name: Push branch
         run: |
-          git config user.name github-actions
-          git config user.email github-actions@github.com
+          git config user.name cheesbot456
+          git config user.email quin@cheesits456.dev
           echo `git add . && git commit -m "${{ github.event.head_commit.message }}"`
           git push
           echo Done!
