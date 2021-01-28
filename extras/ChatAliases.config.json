@@ -387,6 +387,15 @@
 			"regex": false,
 			"replace": "https://pics.c456.xyz/perhaps"
 		},
+		"/rude": {
+			"autoc": true,
+			"case": false,
+			"exact": true,
+			"file": false,
+			"filedata": null,
+			"regex": false,
+			"replace": "https://pics.c456.xyz/rude"
+		},
 		"/sadde": {
 			"autoc": true,
 			"case": false,
