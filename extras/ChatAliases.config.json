@@ -423,6 +423,15 @@
 			"regex": false,
 			"replace": "https://pics.c456.xyz/sniff"
 		},
+		"/thanks": {
+			"autoc": true,
+			"case": false,
+			"exact": true,
+			"file": false,
+			"filedata": null,
+			"regex": false,
+			"replace": "https://pics.c456.xyz/thanks"
+		},
 		"/thonk": {
 			"autoc": true,
 			"case": false,
