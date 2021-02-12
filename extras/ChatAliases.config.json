@@ -405,6 +405,15 @@
 			"regex": false,
 			"replace": "https://pics.c456.xyz/sadde"
 		},
+		"/shh": {
+			"autoc": true,
+			"case": false,
+			"exact": true,
+			"file": false,
+			"filedata": null,
+			"regex": false,
+			"replace": "https://pics.c456.xyz/shh"
+		},
 		"/sniff": {
 			"autoc": true,
 			"case": false,
