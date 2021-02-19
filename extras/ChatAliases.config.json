@@ -459,6 +459,15 @@
 			"regex": false,
 			"replace": "https://pics.c456.xyz/vibing"
 		},
+		"/victory": {
+			"autoc": true,
+			"case": false,
+			"exact": true,
+			"file": false,
+			"filedata": null,
+			"regex": false,
+			"replace": "https://pics.c456.xyz/victory"
+		},
 		"/wack": {
 			"autoc": true,
 			"case": false,
