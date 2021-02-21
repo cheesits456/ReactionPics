@@ -567,6 +567,15 @@
 			"regex": false,
 			"replace": "https://pics.c456.xyz/wheeze"
 		},
+		"/who": {
+			"autoc": true,
+			"case": false,
+			"exact": true,
+			"file": false,
+			"filedata": null,
+			"regex": false,
+			"replace": "https://pics.c456.xyz/who"
+		},
 		"/why": {
 			"autoc": true,
 			"case": false,
