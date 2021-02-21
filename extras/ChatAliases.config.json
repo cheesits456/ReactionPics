@@ -468,6 +468,15 @@
 			"regex": false,
 			"replace": "https://pics.c456.xyz/sniff"
 		},
+		"/stop": {
+			"autoc": true,
+			"case": false,
+			"exact": true,
+			"file": false,
+			"filedata": null,
+			"regex": false,
+			"replace": "https://pics.c456.xyz/stop"
+		},
 		"/thanks": {
 			"autoc": true,
 			"case": false,
