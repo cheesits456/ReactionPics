@@ -504,6 +504,15 @@
 			"regex": false,
 			"replace": "https://pics.c456.xyz/wat"
 		},
+		"/wave": {
+			"autoc": true,
+			"case": false,
+			"exact": true,
+			"file": false,
+			"filedata": null,
+			"regex": false,
+			"replace": "https://pics.c456.xyz/wave"
+		},
 		"/wheeze": {
 			"autoc": true,
 			"case": false,
