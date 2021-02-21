@@ -396,6 +396,15 @@
 			"regex": false,
 			"replace": "https://pics.c456.xyz/perhaps"
 		},
+		"/rip": {
+			"autoc": true,
+			"case": false,
+			"exact": true,
+			"file": false,
+			"filedata": null,
+			"regex": false,
+			"replace": "https://pics.c456.xyz/rip"
+		},
 		"/rude": {
 			"autoc": true,
 			"case": false,
