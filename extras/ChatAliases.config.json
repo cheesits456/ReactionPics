@@ -584,6 +584,15 @@
 			"filedata": null,
 			"regex": false,
 			"replace": "https://pics.c456.xyz/yoink"
+		},
+		"/yum": {
+			"autoc": true,
+			"case": false,
+			"exact": true,
+			"file": false,
+			"filedata": null,
+			"regex": false,
+			"replace": "https://pics.c456.xyz/yum"
 		}
 	}
 }
