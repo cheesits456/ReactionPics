@@ -180,6 +180,15 @@
 			"regex": false,
 			"replace": "https://pics.c456.xyz/facepalm"
 		},
+		"/fuck": {
+			"autoc": true,
+			"case": false,
+			"exact": true,
+			"file": false,
+			"filedata": null,
+			"regex": false,
+			"replace": "https://pics.c456.xyz/fuck"
+		},
 		"/grr": {
 			"autoc": true,
 			"case": false,
