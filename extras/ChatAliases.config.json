@@ -639,6 +639,15 @@
 			"regex": false,
 			"replace": "https://pics.c456.xyz/yes"
 		},
+		"/yikes": {
+			"autoc": true,
+			"case": false,
+			"exact": true,
+			"file": false,
+			"filedata": null,
+			"regex": false,
+			"replace": "https://pics.c456.xyz/yikes"
+		},
 		"/yoink": {
 			"autoc": true,
 			"case": false,
