@@ -612,6 +612,15 @@
 			"regex": false,
 			"replace": "https://pics.c456.xyz/yay"
 		},
+		"/yeah": {
+			"autoc": true,
+			"case": false,
+			"exact": true,
+			"file": false,
+			"filedata": null,
+			"regex": false,
+			"replace": "https://pics.c456.xyz/yeah"
+		},
 		"/yeet": {
 			"autoc": true,
 			"case": false,
