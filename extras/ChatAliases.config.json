@@ -342,6 +342,15 @@
 			"regex": false,
 			"replace": "https://pics.c456.xyz/nope"
 		},
+		"/nothing": {
+			"autoc": true,
+			"case": false,
+			"exact": true,
+			"file": false,
+			"filedata": null,
+			"regex": false,
+			"replace": "https://pics.c456.xyz/nothing"
+		},
 		"/nou": {
 			"autoc": true,
 			"case": false,
