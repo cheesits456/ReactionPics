@@ -22,10 +22,10 @@ Also, the files are all scaled to a height of 200 pixels, so that they don't tak
 
 ## Usage
 
-All files in the `images` folder can be linked to using `https://pics.c456.xyz/{name}`, where `{name}` is the name of the image (without the extension).
+All files in the `images` folder can be linked to using `https://pics.cheesits456.dev/{name}`, where `{name}` is the name of the image (without the extension).
 
 #### Examples:
 
-| <https://pics.c456.xyz/dab>                | <https://pics.c456.xyz/dunno>                   | <https://pics.c456.xyz/no>              |
+| <https://pics.cheesits456.dev/dab>                | <https://pics.cheesits456.dev/dunno>                   | <https://pics.cheesits456.dev/no>              |
 |:------------------------------------------ |:----------------------------------------------- |:--------------------------------------- |
-| ![Dab](https://pics.c456.xyz/dab/dab.jpeg) | ![Dunno](https://pics.c456.xyz/dunno/dunno.gif) | ![No](https://pics.c456.xyz/no/no.jpeg) |
+| ![Dab](https://pics.cheesits456.dev/dab/dab.jpeg) | ![Dunno](https://pics.cheesits456.dev/dunno/dunno.gif) | ![No](https://pics.cheesits456.dev/no/no.jpeg) |
