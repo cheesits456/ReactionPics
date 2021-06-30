@@ -18,7 +18,7 @@
 		"triggerUpload": true
 	},
 	"words": {
-		"/again": {
+		">again": {
 			"autoc": true,
 			"case": false,
 			"exact": true,
@@ -27,7 +27,7 @@
 			"regex": false,
 			"replace": "https://pics.cheesits456.dev/again"
 		},
-		"/awman": {
+		">awman": {
 			"autoc": true,
 			"case": false,
 			"exact": true,
@@ -36,7 +36,7 @@
 			"regex": false,
 			"replace": "https://pics.cheesits456.dev/awman"
 		},
-		"/bazinga": {
+		">bazinga": {
 			"autoc": true,
 			"case": false,
 			"exact": true,
@@ -45,7 +45,7 @@
 			"regex": false,
 			"replace": "https://pics.cheesits456.dev/bazinga"
 		},
-		"/blorp": {
+		">blorp": {
 			"autoc": true,
 			"case": false,
 			"exact": true,
@@ -54,7 +54,7 @@
 			"regex": false,
 			"replace": "https://pics.cheesits456.dev/blorp"
 		},
-		"/bruh": {
+		">bruh": {
 			"autoc": true,
 			"case": false,
 			"exact": true,
@@ -63,7 +63,7 @@
 			"regex": false,
 			"replace": "https://pics.cheesits456.dev/bruh"
 		},
-		"/bye": {
+		">bye": {
 			"autoc": true,
 			"case": false,
 			"exact": true,
@@ -72,7 +72,7 @@
 			"regex": false,
 			"replace": "https://pics.cheesits456.dev/bye"
 		},
-		"/cant-wait": {
+		">cant-wait": {
 			"autoc": true,
 			"case": false,
 			"exact": true,
@@ -81,7 +81,7 @@
 			"regex": false,
 			"replace": "https://pics.cheesits456.dev/cant-wait"
 		},
-		"/communism": {
+		">communism": {
 			"autoc": true,
 			"case": false,
 			"exact": true,
@@ -90,7 +90,7 @@
 			"regex": false,
 			"replace": "https://pics.cheesits456.dev/communism"
 		},
-		"/confused": {
+		">confused": {
 			"autoc": true,
 			"case": false,
 			"exact": true,
@@ -99,7 +99,7 @@
 			"regex": false,
 			"replace": "https://pics.cheesits456.dev/confused"
 		},
-		"/cute": {
+		">cute": {
 			"autoc": true,
 			"case": false,
 			"exact": true,
@@ -108,7 +108,7 @@
 			"regex": false,
 			"replace": "https://pics.cheesits456.dev/cute"
 		},
-		"/dab": {
+		">dab": {
 			"autoc": true,
 			"case": false,
 			"exact": true,
@@ -117,7 +117,7 @@
 			"regex": false,
 			"replace": "https://pics.cheesits456.dev/dab"
 		},
-		"/dafuq": {
+		">dafuq": {
 			"autoc": true,
 			"case": false,
 			"exact": true,
@@ -126,7 +126,7 @@
 			"regex": false,
 			"replace": "https://pics.cheesits456.dev/dafuq"
 		},
-		"/derp": {
+		">derp": {
 			"autoc": true,
 			"case": false,
 			"exact": true,
@@ -135,7 +135,7 @@
 			"regex": false,
 			"replace": "https://pics.cheesits456.dev/derp"
 		},
-		"/developer": {
+		">developer": {
 			"autoc": true,
 			"case": false,
 			"exact": true,
@@ -144,7 +144,7 @@
 			"regex": false,
 			"replace": "https://pics.cheesits456.dev/developer"
 		},
-		"/dont": {
+		">dont": {
 			"autoc": true,
 			"case": false,
 			"exact": true,
@@ -153,7 +153,7 @@
 			"regex": false,
 			"replace": "https://pics.cheesits456.dev/dont"
 		},
-		"/doubt": {
+		">doubt": {
 			"autoc": true,
 			"case": false,
 			"exact": true,
@@ -162,7 +162,7 @@
 			"regex": false,
 			"replace": "https://pics.cheesits456.dev/doubt"
 		},
-		"/dunno": {
+		">dunno": {
 			"autoc": true,
 			"case": false,
 			"exact": true,
@@ -171,7 +171,7 @@
 			"regex": false,
 			"replace": "https://pics.cheesits456.dev/dunno"
 		},
-		"/facepalm": {
+		">facepalm": {
 			"autoc": true,
 			"case": false,
 			"exact": true,
@@ -180,7 +180,7 @@
 			"regex": false,
 			"replace": "https://pics.cheesits456.dev/facepalm"
 		},
-		"/fuck": {
+		">fuck": {
 			"autoc": true,
 			"case": false,
 			"exact": true,
@@ -189,7 +189,7 @@
 			"regex": false,
 			"replace": "https://pics.cheesits456.dev/fuck"
 		},
-		"/grr": {
+		">grr": {
 			"autoc": true,
 			"case": false,
 			"exact": true,
@@ -198,7 +198,7 @@
 			"regex": false,
 			"replace": "https://pics.cheesits456.dev/grr"
 		},
-		"/hackerman": {
+		">hackerman": {
 			"autoc": true,
 			"case": false,
 			"exact": true,
@@ -207,7 +207,7 @@
 			"regex": false,
 			"replace": "https://pics.cheesits456.dev/hackerman"
 		},
-		"/heck": {
+		">heck": {
 			"autoc": true,
 			"case": false,
 			"exact": true,
@@ -216,7 +216,7 @@
 			"regex": false,
 			"replace": "https://pics.cheesits456.dev/heck"
 		},
-		"/hello": {
+		">hello": {
 			"autoc": true,
 			"case": false,
 			"exact": true,
@@ -225,7 +225,7 @@
 			"regex": false,
 			"replace": "https://pics.cheesits456.dev/hello"
 		},
-		"/illegal": {
+		">illegal": {
 			"autoc": true,
 			"case": false,
 			"exact": true,
@@ -234,7 +234,7 @@
 			"regex": false,
 			"replace": "https://pics.cheesits456.dev/illegal"
 		},
-		"/indeed": {
+		">indeed": {
 			"autoc": true,
 			"case": false,
 			"exact": true,
@@ -243,7 +243,7 @@
 			"regex": false,
 			"replace": "https://pics.cheesits456.dev/indeed"
 		},
-		"/jebus": {
+		">jebus": {
 			"autoc": true,
 			"case": false,
 			"exact": true,
@@ -252,7 +252,7 @@
 			"regex": false,
 			"replace": "https://pics.cheesits456.dev/jebus"
 		},
-		"/juice": {
+		">juice": {
 			"autoc": true,
 			"case": false,
 			"exact": true,
@@ -261,7 +261,7 @@
 			"regex": false,
 			"replace": "https://pics.cheesits456.dev/juice"
 		},
-		"/liar": {
+		">liar": {
 			"autoc": true,
 			"case": false,
 			"exact": true,
@@ -270,7 +270,7 @@
 			"regex": false,
 			"replace": "https://pics.cheesits456.dev/liar"
 		},
-		"/listen": {
+		">listen": {
 			"autoc": true,
 			"case": false,
 			"exact": true,
@@ -279,7 +279,7 @@
 			"regex": false,
 			"replace": "https://pics.cheesits456.dev/listen"
 		},
-		"/lol": {
+		">lol": {
 			"autoc": true,
 			"case": false,
 			"exact": true,
@@ -288,7 +288,7 @@
 			"regex": false,
 			"replace": "https://pics.cheesits456.dev/lol"
 		},
-		"/magic": {
+		">magic": {
 			"autoc": true,
 			"case": false,
 			"exact": true,
@@ -297,7 +297,7 @@
 			"regex": false,
 			"replace": "https://pics.cheesits456.dev/magic"
 		},
-		"/maybe": {
+		">maybe": {
 			"autoc": true,
 			"case": false,
 			"exact": true,
@@ -306,7 +306,7 @@
 			"regex": false,
 			"replace": "https://pics.cheesits456.dev/maybe"
 		},
-		"/monke": {
+		">monke": {
 			"autoc": true,
 			"case": false,
 			"exact": true,
@@ -315,7 +315,7 @@
 			"regex": false,
 			"replace": "https://pics.cheesits456.dev/monke"
 		},
-		"/no": {
+		">no": {
 			"autoc": true,
 			"case": false,
 			"exact": true,
@@ -324,7 +324,7 @@
 			"regex": false,
 			"replace": "https://pics.cheesits456.dev/no"
 		},
-		"/noice": {
+		">noice": {
 			"autoc": true,
 			"case": false,
 			"exact": true,
@@ -333,7 +333,7 @@
 			"regex": false,
 			"replace": "https://pics.cheesits456.dev/noice"
 		},
-		"/nope": {
+		">nope": {
 			"autoc": true,
 			"case": false,
 			"exact": true,
@@ -342,7 +342,7 @@
 			"regex": false,
 			"replace": "https://pics.cheesits456.dev/nope"
 		},
-		"/nothing": {
+		">nothing": {
 			"autoc": true,
 			"case": false,
 			"exact": true,
@@ -351,7 +351,7 @@
 			"regex": false,
 			"replace": "https://pics.cheesits456.dev/nothing"
 		},
-		"/nou": {
+		">nou": {
 			"autoc": true,
 			"case": false,
 			"exact": true,
@@ -360,7 +360,7 @@
 			"regex": false,
 			"replace": "https://pics.cheesits456.dev/nou"
 		},
-		"/oh": {
+		">oh": {
 			"autoc": true,
 			"case": false,
 			"exact": true,
@@ -369,7 +369,7 @@
 			"regex": false,
 			"replace": "https://pics.cheesits456.dev/oh"
 		},
-		"/ohno": {
+		">ohno": {
 			"autoc": true,
 			"case": false,
 			"exact": true,
@@ -378,7 +378,7 @@
 			"regex": false,
 			"replace": "https://pics.cheesits456.dev/ohno"
 		},
-		"/ohyeah": {
+		">ohyeah": {
 			"autoc": true,
 			"case": false,
 			"exact": true,
@@ -387,7 +387,7 @@
 			"regex": false,
 			"replace": "https://pics.cheesits456.dev/ohyeah"
 		},
-		"/okay": {
+		">okay": {
 			"autoc": true,
 			"case": false,
 			"exact": true,
@@ -396,7 +396,7 @@
 			"regex": false,
 			"replace": "https://pics.cheesits456.dev/okay"
 		},
-		"/oof": {
+		">oof": {
 			"autoc": true,
 			"case": false,
 			"exact": true,
@@ -405,7 +405,7 @@
 			"regex": false,
 			"replace": "https://pics.cheesits456.dev/oof"
 		},
-		"/peace": {
+		">peace": {
 			"autoc": true,
 			"case": false,
 			"exact": true,
@@ -414,7 +414,7 @@
 			"regex": false,
 			"replace": "https://pics.cheesits456.dev/peace"
 		},
-		"/perhaps": {
+		">perhaps": {
 			"autoc": true,
 			"case": false,
 			"exact": true,
@@ -423,7 +423,7 @@
 			"regex": false,
 			"replace": "https://pics.cheesits456.dev/perhaps"
 		},
-		"/rip": {
+		">rip": {
 			"autoc": true,
 			"case": false,
 			"exact": true,
@@ -432,7 +432,7 @@
 			"regex": false,
 			"replace": "https://pics.cheesits456.dev/rip"
 		},
-		"/rude": {
+		">rude": {
 			"autoc": true,
 			"case": false,
 			"exact": true,
@@ -441,7 +441,7 @@
 			"regex": false,
 			"replace": "https://pics.cheesits456.dev/rude"
 		},
-		"/sadde": {
+		">sadde": {
 			"autoc": true,
 			"case": false,
 			"exact": true,
@@ -450,7 +450,7 @@
 			"regex": false,
 			"replace": "https://pics.cheesits456.dev/sadde"
 		},
-		"/same": {
+		">same": {
 			"autoc": true,
 			"case": false,
 			"exact": true,
@@ -459,7 +459,7 @@
 			"regex": false,
 			"replace": "https://pics.cheesits456.dev/same"
 		},
-		"/shh": {
+		">shh": {
 			"autoc": true,
 			"case": false,
 			"exact": true,
@@ -468,7 +468,7 @@
 			"regex": false,
 			"replace": "https://pics.cheesits456.dev/shh"
 		},
-		"/slowclap": {
+		">slowclap": {
 			"autoc": true,
 			"case": false,
 			"exact": true,
@@ -477,7 +477,7 @@
 			"regex": false,
 			"replace": "https://pics.cheesits456.dev/slowclap"
 		},
-		"/sniff": {
+		">sniff": {
 			"autoc": true,
 			"case": false,
 			"exact": true,
@@ -486,7 +486,7 @@
 			"regex": false,
 			"replace": "https://pics.cheesits456.dev/sniff"
 		},
-		"/stop": {
+		">stop": {
 			"autoc": true,
 			"case": false,
 			"exact": true,
@@ -495,7 +495,7 @@
 			"regex": false,
 			"replace": "https://pics.cheesits456.dev/stop"
 		},
-		"/thanks": {
+		">thanks": {
 			"autoc": true,
 			"case": false,
 			"exact": true,
@@ -504,7 +504,7 @@
 			"regex": false,
 			"replace": "https://pics.cheesits456.dev/thanks"
 		},
-		"/thonk": {
+		">thonk": {
 			"autoc": true,
 			"case": false,
 			"exact": true,
@@ -513,7 +513,7 @@
 			"regex": false,
 			"replace": "https://pics.cheesits456.dev/thonk"
 		},
-		"/typing": {
+		">typing": {
 			"autoc": true,
 			"case": false,
 			"exact": true,
@@ -522,7 +522,7 @@
 			"regex": false,
 			"replace": "https://pics.cheesits456.dev/typing"
 		},
-		"/vibing": {
+		">vibing": {
 			"autoc": true,
 			"case": false,
 			"exact": true,
@@ -531,7 +531,7 @@
 			"regex": false,
 			"replace": "https://pics.cheesits456.dev/vibing"
 		},
-		"/victory": {
+		">victory": {
 			"autoc": true,
 			"case": false,
 			"exact": true,
@@ -540,7 +540,7 @@
 			"regex": false,
 			"replace": "https://pics.cheesits456.dev/victory"
 		},
-		"/wack": {
+		">wack": {
 			"autoc": true,
 			"case": false,
 			"exact": true,
@@ -549,7 +549,7 @@
 			"regex": false,
 			"replace": "https://pics.cheesits456.dev/wack"
 		},
-		"/wat": {
+		">wat": {
 			"autoc": true,
 			"case": false,
 			"exact": true,
@@ -558,7 +558,7 @@
 			"regex": false,
 			"replace": "https://pics.cheesits456.dev/wat"
 		},
-		"/wave": {
+		">wave": {
 			"autoc": true,
 			"case": false,
 			"exact": true,
@@ -567,7 +567,7 @@
 			"regex": false,
 			"replace": "https://pics.cheesits456.dev/wave"
 		},
-		"/wheeze": {
+		">wheeze": {
 			"autoc": true,
 			"case": false,
 			"exact": true,
@@ -576,7 +576,7 @@
 			"regex": false,
 			"replace": "https://pics.cheesits456.dev/wheeze"
 		},
-		"/who": {
+		">who": {
 			"autoc": true,
 			"case": false,
 			"exact": true,
@@ -585,7 +585,7 @@
 			"regex": false,
 			"replace": "https://pics.cheesits456.dev/who"
 		},
-		"/why": {
+		">why": {
 			"autoc": true,
 			"case": false,
 			"exact": true,
@@ -594,7 +594,7 @@
 			"regex": false,
 			"replace": "https://pics.cheesits456.dev/why"
 		},
-		"/wink": {
+		">wink": {
 			"autoc": true,
 			"case": false,
 			"exact": true,
@@ -603,7 +603,7 @@
 			"regex": false,
 			"replace": "https://pics.cheesits456.dev/wink"
 		},
-		"/woah": {
+		">woah": {
 			"autoc": true,
 			"case": false,
 			"exact": true,
@@ -612,7 +612,7 @@
 			"regex": false,
 			"replace": "https://pics.cheesits456.dev/woah"
 		},
-		"/wow": {
+		">wow": {
 			"autoc": true,
 			"case": false,
 			"exact": true,
@@ -621,7 +621,7 @@
 			"regex": false,
 			"replace": "https://pics.cheesits456.dev/wow"
 		},
-		"/wth": {
+		">wth": {
 			"autoc": true,
 			"case": false,
 			"exact": true,
@@ -630,7 +630,7 @@
 			"regex": false,
 			"replace": "https://pics.cheesits456.dev/wth"
 		},
-		"/yawn": {
+		">yawn": {
 			"autoc": true,
 			"case": false,
 			"exact": true,
@@ -639,7 +639,7 @@
 			"regex": false,
 			"replace": "https://pics.cheesits456.dev/yawn"
 		},
-		"/yay": {
+		">yay": {
 			"autoc": true,
 			"case": false,
 			"exact": true,
@@ -648,7 +648,7 @@
 			"regex": false,
 			"replace": "https://pics.cheesits456.dev/yay"
 		},
-		"/yeah": {
+		">yeah": {
 			"autoc": true,
 			"case": false,
 			"exact": true,
@@ -657,7 +657,7 @@
 			"regex": false,
 			"replace": "https://pics.cheesits456.dev/yeah"
 		},
-		"/yeet": {
+		">yeet": {
 			"autoc": true,
 			"case": false,
 			"exact": true,
@@ -666,7 +666,7 @@
 			"regex": false,
 			"replace": "https://pics.cheesits456.dev/yeet"
 		},
-		"/yes": {
+		">yes": {
 			"autoc": true,
 			"case": false,
 			"exact": true,
@@ -675,7 +675,7 @@
 			"regex": false,
 			"replace": "https://pics.cheesits456.dev/yes"
 		},
-		"/yikes": {
+		">yikes": {
 			"autoc": true,
 			"case": false,
 			"exact": true,
@@ -684,7 +684,7 @@
 			"regex": false,
 			"replace": "https://pics.cheesits456.dev/yikes"
 		},
-		"/yoink": {
+		">yoink": {
 			"autoc": true,
 			"case": false,
 			"exact": true,
@@ -693,7 +693,7 @@
 			"regex": false,
 			"replace": "https://pics.cheesits456.dev/yoink"
 		},
-		"/yum": {
+		">yum": {
 			"autoc": true,
 			"case": false,
 			"exact": true,
