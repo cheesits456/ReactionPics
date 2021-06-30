@@ -24,7 +24,7 @@ let config = {
 
 console.log("Building JSON plugin configuration");
 for (const [name, ext] of fs.readdirSync("./images").map(f => f.split("."))) {
-	config.words[`/${name}`] = {
+	config.words[`>${name}`] = {
 		autoc: true,
 		case: false,
 		exact: true,
