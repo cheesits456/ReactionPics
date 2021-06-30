@@ -31,7 +31,7 @@ for (const [name, ext] of fs.readdirSync("./images").map(f => f.split("."))) {
 		file: false,
 		filedata: null,
 		regex: false,
-		replace: `https://pics.c456.xyz/${name}`
+		replace: `https://pics.cheesits456.dev/${name}`
 	};
 }
 
