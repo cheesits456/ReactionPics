@@ -189,6 +189,15 @@
 			"regex": false,
 			"replace": "https://pics.cheesits456.dev/fuck"
 		},
+		">good-morning": {
+			"autoc": true,
+			"case": false,
+			"exact": true,
+			"file": false,
+			"filedata": null,
+			"regex": false,
+			"replace": "https://pics.cheesits456.dev/good-morning"
+		},
 		">grr": {
 			"autoc": true,
 			"case": false,
