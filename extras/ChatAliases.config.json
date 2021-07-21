@@ -432,6 +432,15 @@
 			"regex": false,
 			"replace": "https://pics.cheesits456.dev/perhaps"
 		},
+		">right": {
+			"autoc": true,
+			"case": false,
+			"exact": true,
+			"file": false,
+			"filedata": null,
+			"regex": false,
+			"replace": "https://pics.cheesits456.dev/right"
+		},
 		">rip": {
 			"autoc": true,
 			"case": false,
