@@ -630,6 +630,15 @@
 			"regex": false,
 			"replace": "https://pics.cheesits456.dev/wow"
 		},
+		">wrong": {
+			"autoc": true,
+			"case": false,
+			"exact": true,
+			"file": false,
+			"filedata": null,
+			"regex": false,
+			"replace": "https://pics.cheesits456.dev/wrong"
+		},
 		">wth": {
 			"autoc": true,
 			"case": false,
