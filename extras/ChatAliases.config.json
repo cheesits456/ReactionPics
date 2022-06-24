@@ -504,6 +504,15 @@
 			"regex": false,
 			"replace": "https://pics.cheesits456.dev/slowclap"
 		},
+		">smart": {
+			"autoc": true,
+			"case": false,
+			"exact": true,
+			"file": false,
+			"filedata": null,
+			"regex": false,
+			"replace": "https://pics.cheesits456.dev/smart"
+		},
 		">sniff": {
 			"autoc": true,
 			"case": false,
