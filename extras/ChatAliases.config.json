@@ -423,6 +423,15 @@
 			"regex": false,
 			"replace": "https://pics.cheesits456.dev/peace"
 		},
+		">perfect": {
+			"autoc": true,
+			"case": false,
+			"exact": true,
+			"file": false,
+			"filedata": null,
+			"regex": false,
+			"replace": "https://pics.cheesits456.dev/perfect"
+		},
 		">perhaps": {
 			"autoc": true,
 			"case": false,
