@@ -549,6 +549,15 @@
 			"regex": false,
 			"replace": "https://pics.cheesits456.dev/sniff"
 		},
+		">stonks": {
+			"autoc": true,
+			"case": false,
+			"exact": true,
+			"file": false,
+			"filedata": null,
+			"regex": false,
+			"replace": "https://pics.cheesits456.dev/stonks"
+		},
 		">stop": {
 			"autoc": true,
 			"case": false,
