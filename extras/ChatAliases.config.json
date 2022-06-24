@@ -243,6 +243,15 @@
 			"regex": false,
 			"replace": "https://pics.cheesits456.dev/illegal"
 		},
+		">immaculate": {
+			"autoc": true,
+			"case": false,
+			"exact": true,
+			"file": false,
+			"filedata": null,
+			"regex": false,
+			"replace": "https://pics.cheesits456.dev/immaculate"
+		},
 		">indeed": {
 			"autoc": true,
 			"case": false,
