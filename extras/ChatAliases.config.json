@@ -612,6 +612,15 @@
 			"regex": false,
 			"replace": "https://pics.cheesits456.dev/wave"
 		},
+		">welp": {
+			"autoc": true,
+			"case": false,
+			"exact": true,
+			"file": false,
+			"filedata": null,
+			"regex": false,
+			"replace": "https://pics.cheesits456.dev/welp"
+		},
 		">wheeze": {
 			"autoc": true,
 			"case": false,
