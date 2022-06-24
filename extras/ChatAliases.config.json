@@ -504,6 +504,15 @@
 			"regex": false,
 			"replace": "https://pics.cheesits456.dev/same"
 		},
+		">science": {
+			"autoc": true,
+			"case": false,
+			"exact": true,
+			"file": false,
+			"filedata": null,
+			"regex": false,
+			"replace": "https://pics.cheesits456.dev/science"
+		},
 		">shh": {
 			"autoc": true,
 			"case": false,
