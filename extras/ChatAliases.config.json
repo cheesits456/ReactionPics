@@ -414,6 +414,15 @@
 			"regex": false,
 			"replace": "https://pics.cheesits456.dev/oof"
 		},
+		">owo": {
+			"autoc": true,
+			"case": false,
+			"exact": true,
+			"file": false,
+			"filedata": null,
+			"regex": false,
+			"replace": "https://pics.cheesits456.dev/owo"
+		},
 		">peace": {
 			"autoc": true,
 			"case": false,
