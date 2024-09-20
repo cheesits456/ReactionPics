@@ -2,6 +2,9 @@
 
 My personal folder of reaction images that I use in conversation on Discord and various other chat platforms
 
+> [!IMPORTANT]
+> All image and feature requests have been migrated from issues to [discussions](https://github.com/cheesits456/ReactionPics/discussions)
+
 ## About
 
 ### Branch/Folder Structure
