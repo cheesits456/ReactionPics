@@ -5,22 +5,6 @@ My personal folder of reaction images that I use in conversation on Discord and 
 > [!IMPORTANT]  
 > All image and feature requests have been migrated from issues to [discussions](https://github.com/cheesits456/ReactionPics/discussions)
 
-<details><summary><strong><ins>Table of Contents:</ins></strong></summary><br>
-
-<!-- toc -->
-
-- [ReactionPics](#reactionpics)
-  - [About](#about)
-    - [Branch/Folder Structure](#branchfolder-structure)
-    - [Mitigation of Large File Sizes](#mitigation-of-large-file-sizes)
-  - [Usage](#usage)
-    - [How-to](#how-to)
-    - [Examples](#examples)
-
-<!-- tocstop -->
-
-</details>
-
 ## About
 
 ### Branch/Folder Structure
