@@ -2,12 +2,13 @@
 
 My personal folder of reaction images that I use in conversation on Discord and various other chat platforms
 
-> [!IMPORTANT]
+> [!IMPORTANT]  
 > All image and feature requests have been migrated from issues to [discussions](https://github.com/cheesits456/ReactionPics/discussions)
 
 <details><summary><strong><ins>Table of Contents:</ins></strong></summary>
 
 <!-- toc -->
+
 - [ReactionPics](#reactionpics)
   - [About](#about)
     - [Branch/Folder Structure](#branchfolder-structure)
@@ -15,6 +16,7 @@ My personal folder of reaction images that I use in conversation on Discord and 
   - [Usage](#usage)
     - [How-to](#how-to)
     - [Examples](#examples)
+
 <!-- tocstop -->
 
 </details>
@@ -35,7 +37,7 @@ Outlined below is an overview of this repository's two branches, and some key fo
     - **`template.html` file:** a template for the `index.html` files in the generated site, used by the above described `build-pages.js` script to ease in the generation of the `gh-pages` branch
 - **`gh-pages` branch:** used for hosting the site that provides links for all the images
 
-> [!WARNING]
+> [!WARNING]  
 > I have not used or tested the ChatAliases plugin in multiple years now, so it isn't guaranteed to still be working. If you try it out and find that it _does_ still work, please [create a new discussion](https://github.com/cheesits456/ReactionPics/discussions/new?category=general) to let me know so that I can update this note
 
 ### Mitigation of Large File Sizes
