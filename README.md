@@ -5,7 +5,7 @@ My personal folder of reaction images that I use in conversation on Discord and 
 > [!IMPORTANT]  
 > All image and feature requests have been migrated from issues to [discussions](https://github.com/cheesits456/ReactionPics/discussions)
 
-<details><summary><strong><ins>Table of Contents:</ins></strong></summary>
+<details><summary><strong><ins>Table of Contents:</ins></strong></summary><br>
 
 <!-- toc -->
 
