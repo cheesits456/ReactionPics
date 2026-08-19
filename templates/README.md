@@ -1,6 +1,6 @@
 # ReactionPics
 
-My personal folder of reaction images that I use in conversation on Discord and various other chat platform
+My personal folder of reaction images that I use in conversation on Discord and various other chat platforms
 
 ## About
 
