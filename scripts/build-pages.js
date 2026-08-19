@@ -21,24 +21,20 @@ const fs = require("fs");
 
 		case "Create":
 			// Load template to variable as a string
-			const template = fs.readFileSync("./ReactionPics/templates/image-page.html", "utf8");
+			const template = await fs.readFile("./ReactionPics/templates/image-page.html", "utf8");
 
 			if (fs.existsSync(`./ReactionPics/images/${process.argv[3]}`)) {
 				const file = process.argv[3]; // filename
 				const [name, format] = file.split(".");
 
 				console.log(`Creating directory for ${file}`);
-				fs.mkdirSync(`./${name}`);
+				await fs.mkdir(`./${name}`);
 
 				console.log(`Copying ${file} to new directory`);
-				fs.copyFileSync(`./ReactionPics/images/${file}`, `./${name}/${file}`);
+				await fs.copyFile(`./ReactionPics/images/${file}`, `./${name}/${file}`);
 
 				console.log(`Creating index.html file for ${file}`);
-				fs.writeFileSync(
-					`./${name}/index.html`,
-					template.replace(/{name}/g, name).replace(/{format}/g, format),
-					"utf8"
-				);
+				await fs.writeFile(`./${name}/index.html`, template.replace(/{name}/g, name).replace(/{format}/g, format), "utf8");
 
 			} else console.log("Nothing to do");
 
@@ -48,15 +44,12 @@ const fs = require("fs");
 			// If changed file is the README, copy it to pages branch
 			if (process.argv[3] === "README.md") {
 				console.log("Copying README.md to gh-pages branch");
-				fs.copyFileSync("./ReactionPics/README.md", "./README.md");
+				await fs.copyFile("./ReactionPics/README.md", "./README.md");
 
 			// If changed file is existing image, replace it with the new one
 			} else if (fs.existsSync(`./ReactionPics/images/${process.argv[3]}`)) {
 				console.log(`Replacing ${process.argv[3]} in gh-pages branch`);
-				fs.copyFileSync(
-					`./ReactionPics/images/${process.argv[3]}`,
-					`./${process.argv[3].split(".")[0]}/${process.argv[3]}`
-				);
+				await fs.copyFile(`./ReactionPics/images/${process.argv[3]}`, `./${process.argv[3].split(".")[0]}/${process.argv[3]}`);
 
 			} else console.log("Nothing to do");
 
