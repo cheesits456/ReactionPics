@@ -1,6 +1,7 @@
 const fs = require("fs");
 
 switch (process.argv[2]) {
+
 	case "Create":
 		const template = fs.readFileSync("./ReactionPics/scripts/template.html", "utf8");
 		if (fs.existsSync(`./ReactionPics/images/${process.argv[3]}`)) {
@@ -35,6 +36,7 @@ switch (process.argv[2]) {
 	default:
 		console.log("Nothing to do");
 		break;
-}
+
+};
 
 console.log("Done!");
