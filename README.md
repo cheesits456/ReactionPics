@@ -9,17 +9,17 @@ My personal folder of reaction images that I use in conversation on Discord and 
 
 - [ReactionPics](#reactionpics)
   - [About](#about)
-    - [Branch / Folder Structure](#branch--folder-structure)
-    - [Mitigation of Large File Sizes](#mitigation-of-large-file-sizes)
+    - [Branch / Folder Structure:](#branch--folder-structure)
+    - [Mitigation of Large File Sizes:](#mitigation-of-large-file-sizes)
   - [Usage](#usage)
-    - [How To](#how-to)
-    - [Examples](#examples)
+    - [How To:](#how-to)
+    - [Examples:](#examples)
 
 </details>
 
 ## About
 
-### Branch / Folder Structure
+### Branch / Folder Structure:
 
 Outlined below is an overview of this repository's two branches, and some key folders within them:
 
@@ -29,7 +29,7 @@ Outlined below is an overview of this repository's two branches, and some key fo
   - **`templates` folder -** contains the templates used by `build-pages.js` to generate the page structure for the `gh-pages` branch
 - **`gh-pages` branch -** used for hosting the site that provides links for all the images
 
-### Mitigation of Large File Sizes
+### Mitigation of Large File Sizes:
 
 Outlined below are some steps that have been taken to reduce the storage size of the image files:
 
@@ -40,11 +40,11 @@ Outlined below are some steps that have been taken to reduce the storage size of
 
 ## Usage
 
-### How To
+### How To:
 
 All files in the `images` folder can be linked to using `https://pics.cheesits456.dev/name`, where `name` is replaced with the name of the image you wish to link to. In order to reduce the amount of unneeded text in your message, the `gh-pages` repository is generated in such a way that you don't need to include the file extension for it to properly link to and embed the image in a chat program. This has the added benefit that you don't have to know in advance whether the image is animated or not, so you won't have to remember whether to use `.jpeg` or `.gif` in your link.
 
-### Examples
+### Examples:
 
 | Link:                                | Result:                                                |
 | ------------------------------------ | ------------------------------------------------------ |
