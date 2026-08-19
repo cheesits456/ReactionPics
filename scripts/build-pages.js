@@ -21,7 +21,7 @@ const fs = require("fs");
 
 		case "Create":
 			// Load template to variable as a string
-			const template = await fs.readFile("./ReactionPics/templates/image-page.html", "utf8");
+			const template = await fs.readFile("./ReactionPics/templates/image-page.html");
 
 			if (fs.existsSync(`./ReactionPics/images/${process.argv[3]}`)) {
 				const file = process.argv[3]; // filename
