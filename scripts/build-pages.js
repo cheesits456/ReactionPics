@@ -30,7 +30,7 @@ switch (process.argv[2]) { // First word of commit message
 			const [name, format] = file.split(".");
 
 			console.log(`Creating directory for ${file}`);
-			fs.mkdirSync(`./${name}`);
+			try { fs.mkdirSync(`./${name}`) } catch (err) {};
 
 			console.log(`Copying ${file} to new directory`);
 			fs.copyFileSync(`./ReactionPics/images/${file}`, `./${name}/${file}`);
