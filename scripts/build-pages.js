@@ -34,7 +34,7 @@ const fs = require("fs");
 				await fs.copyFile(`./ReactionPics/images/${file}`, `./${name}/${file}`);
 
 				console.log(`Creating index.html file for ${file}`);
-				await fs.writeFile(`./${name}/index.html`, template.replace(/{name}/g, name).replace(/{format}/g, format), "utf8");
+				await fs.writeFile(`./${name}/index.html`, template.replace(/{name}/g, name).replace(/{format}/g, format));
 
 			} else console.log("Nothing to do");
 
