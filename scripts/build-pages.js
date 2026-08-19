@@ -65,6 +65,7 @@ switch (process.argv[2]) { // First word of commit message
 
 // Build new README.md file for pics.cheesits456.dev homepage if needed
 if (["Create", "Update"].includes(process.argv[2])) {
+	console.log("Building site landing page")
 	// Load template to variable as a string
 	let readme = fs.readFileSync("./ReactionPics/templates/README.md", "utf8");
 
