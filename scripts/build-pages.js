@@ -61,7 +61,7 @@ switch (process.argv[2]) { // First word of commit message
 
 // Build new README.md file for pics.cheesits456.dev homepage if needed
 if (["Create", "Update"].includes(process.argv[2])) {
-	for (const filename of await fs.readdir("./ReactionPics/images")) {
+	for (const filename of fs.readdirSync("./ReactionPics/images")) {
 		console.log(filename);
 	}
 }
