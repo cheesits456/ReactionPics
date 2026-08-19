@@ -21,7 +21,7 @@ const fs = require("fs");
 
 		case "Create":
 			// Load template to variable as a string
-			const template = await fs.readFile("./ReactionPics/templates/image-page.html");
+			const template = fs.readFileSync("./ReactionPics/templates/image-page.html", "utf8");
 
 			if (fs.existsSync(`./ReactionPics/images/${process.argv[3]}`)) {
 				const file = process.argv[3]; // filename
@@ -34,7 +34,7 @@ const fs = require("fs");
 				await fs.copyFile(`./ReactionPics/images/${file}`, `./${name}/${file}`);
 
 				console.log(`Creating index.html file for ${file}`);
-				await fs.writeFile(`./${name}/index.html`, template.replace(/{name}/g, name).replace(/{format}/g, format));
+				fs.writeFileSync(`./${name}/index.html`, template.replace(/{name}/g, name).replace(/{format}/g, format), "utf8");
 
 			} else console.log("Nothing to do");
 
