@@ -43,13 +43,8 @@ switch (process.argv[2]) { // First word of commit message
 		break;
 
 	case "Update":
-		// If changed file is the README, copy it to pages branch
-		if (process.argv[3] === "README.md") {
-			console.log("Copying README.md to gh-pages branch");
-			fs.copyFileSync("./ReactionPics/README.md", "./README.md");
-
 		// If changed file is existing image, replace it with the new one
-		} else if (fs.existsSync(`./ReactionPics/images/${process.argv[3]}`)) {
+		if (fs.existsSync(`./ReactionPics/images/${process.argv[3]}`)) {
 			console.log(`Replacing ${process.argv[3]} in gh-pages branch`);
 			fs.copyFileSync(`./ReactionPics/images/${process.argv[3]}`, `./${process.argv[3].split(".")[0]}/${process.argv[3]}`);
 
