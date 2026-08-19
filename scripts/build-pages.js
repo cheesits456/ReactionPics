@@ -61,6 +61,13 @@ const fs = require("fs");
 
 	};
 
+	// Build new README.md file for pics.cheesits456.dev homepage if needed
+	if (["Create", "Update"].includes(process.argv[2])) {
+		for (const filename of await fs.readdir("./ReactionPics/images")) {
+			console.log(filename);
+		}
+	}
+
 	console.log("Done!");
 
 })();
