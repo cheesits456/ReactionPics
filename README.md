@@ -1,30 +1,8 @@
 # ReactionPics
 
-My personal folder of reaction images that I use in conversation on Discord and various other chat platforms
-
-<details><summary><strong>Table of Contents:</strong></summary>
-
-- [ReactionPics](#reactionpics)
-  - [About](#about)
-    - [Branch / Folder Structure](#branch--folder-structure)
-    - [Mitigation of Large File Sizes](#mitigation-of-large-file-sizes)
-  - [Usage](#usage)
-    - [How To](#how-to)
-    - [Examples](#examples)
-
-</details>
+My personal folder of reaction images that I use in conversation on Discord and various other chat platform
 
 ## About
-
-### Branch / Folder Structure
-
-Outlined below is an overview of this repository's two branches, and some key folders within them:
-
-- **`master` branch :** main branch containing all the code required to make things work
-  - **`images` folder :** contains all of the reaction images
-  - **`scripts` folder :** contains scripts and other files relating to the automatic generation and deployment of configs and the site that hosts the image files
-  - **`templates` folder :** contains the templates used by `build-pages.js` to generate the page structure for the `gh-pages` branch
-- **`gh-pages` branch :** used for hosting the site that provides links for all the images
 
 ### Mitigation of Large File Sizes
 
