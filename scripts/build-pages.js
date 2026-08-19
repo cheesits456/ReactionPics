@@ -9,6 +9,7 @@ const fs = require("fs");
 			if (fs.existsSync(`./ReactionPics/images/${process.argv[3]}`)) {
 				const file = process.argv[3];
 				const [name, type] = file.split(".");
+				const [name, format] = file.split(".");
 				console.log(`Creating directory for ${file}`);
 				fs.mkdirSync(`./${name}`);
 				console.log(`Copying ${file} to new directory`);
@@ -16,7 +17,7 @@ const fs = require("fs");
 				console.log(`Creating index.html file for ${file}`);
 				fs.writeFileSync(
 					`./${name}/index.html`,
-					template.replace(/{name}/g, name).replace(/{type}/g, type),
+					template.replace(/{name}/g, name).replace(/{format}/g, format),
 					"utf8"
 				);
 			} else console.log("Nothing to do");
