@@ -1,10 +1,10 @@
 # ReactionPics
 
-My personal folder of reaction images that I use in conversation on Discord and various other chat platform
+My personal folder of reaction images that I use in conversation on Discord and various other chat platforms
 
 ## About
 
-### Mitigation of Large File Sizes
+### Mitigation of Large File Sizes:
 
 Outlined below are some steps that have been taken to reduce the storage size of the image files:
 
@@ -15,11 +15,11 @@ Outlined below are some steps that have been taken to reduce the storage size of
 
 ## Usage
 
-### How To
+### How To:
 
 All files in the `images` folder can be linked to using `https://pics.cheesits456.dev/name`, where `name` is replaced with the name of the image you wish to link to. In order to reduce the amount of unneeded text in your message, the `gh-pages` repository is generated in such a way that you don't need to include the file extension for it to properly link to and embed the image in a chat program. This has the added benefit that you don't have to know in advance whether the image is animated or not, so you won't have to remember whether to use `.jpeg` or `.gif` in your link.
 
-### Examples
+### Examples:
 
 | Filename | Link | Image |
 | -------- | ---- | ----- |
@@ -54,6 +54,7 @@ All files in the `images` folder can be linked to using `https://pics.cheesits45
 | indeed.jpeg | <https://pics.cheesits456.dev/indeed> | ![Indeed](https://pics.cheesits456.dev/indeed/indeed.jpeg) |
 | jebus.jpeg | <https://pics.cheesits456.dev/jebus> | ![Jebus](https://pics.cheesits456.dev/jebus/jebus.jpeg) |
 | juice.gif | <https://pics.cheesits456.dev/juice> | ![Juice](https://pics.cheesits456.dev/juice/juice.gif) |
+| k.jpeg | <https://pics.cheesits456.dev/k> | ![K](https://pics.cheesits456.dev/k/k.jpeg) |
 | liar.jpeg | <https://pics.cheesits456.dev/liar> | ![Liar](https://pics.cheesits456.dev/liar/liar.jpeg) |
 | listen.gif | <https://pics.cheesits456.dev/listen> | ![Listen](https://pics.cheesits456.dev/listen/listen.gif) |
 | lol.gif | <https://pics.cheesits456.dev/lol> | ![Lol](https://pics.cheesits456.dev/lol/lol.gif) |
