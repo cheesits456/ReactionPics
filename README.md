@@ -28,7 +28,6 @@ All files in the `images` folder can be linked to using `https://pics.cheesits45
 | bazinga.jpeg | <https://pics.cheesits456.dev/bazinga> | ![Bazinga](https://pics.cheesits456.dev/bazinga/bazinga.jpeg) |
 | blorp.jpeg | <https://pics.cheesits456.dev/blorp> | ![Blorp](https://pics.cheesits456.dev/blorp/blorp.jpeg) |
 | bruh.jpeg | <https://pics.cheesits456.dev/bruh> | ![Bruh](https://pics.cheesits456.dev/bruh/bruh.jpeg) |
-| bye.jpeg | <https://pics.cheesits456.dev/bye> | ![Bye](https://pics.cheesits456.dev/bye/bye.jpeg) |
 | cant-wait.gif | <https://pics.cheesits456.dev/cant-wait> | ![Cant-wait](https://pics.cheesits456.dev/cant-wait/cant-wait.gif) |
 | communism.jpeg | <https://pics.cheesits456.dev/communism> | ![Communism](https://pics.cheesits456.dev/communism/communism.jpeg) |
 | confused.jpeg | <https://pics.cheesits456.dev/confused> | ![Confused](https://pics.cheesits456.dev/confused/confused.jpeg) |
