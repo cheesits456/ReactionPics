@@ -49,6 +49,7 @@ All files in the `images` folder can be linked to using `https://pics.cheesits45
 | hackerman.jpeg | <https://pics.cheesits456.dev/hackerman> | ![Hackerman](https://pics.cheesits456.dev/hackerman/hackerman.jpeg) |
 | heck.jpeg | <https://pics.cheesits456.dev/heck> | ![Heck](https://pics.cheesits456.dev/heck/heck.jpeg) |
 | hello.gif | <https://pics.cheesits456.dev/hello> | ![Hello](https://pics.cheesits456.dev/hello/hello.gif) |
+| hi.jpeg | <https://pics.cheesits456.dev/hi> | ![Hi](https://pics.cheesits456.dev/hi/hi.jpeg) |
 | illegal.jpeg | <https://pics.cheesits456.dev/illegal> | ![Illegal](https://pics.cheesits456.dev/illegal/illegal.jpeg) |
 | immaculate.jpeg | <https://pics.cheesits456.dev/immaculate> | ![Immaculate](https://pics.cheesits456.dev/immaculate/immaculate.jpeg) |
 | indeed.jpeg | <https://pics.cheesits456.dev/indeed> | ![Indeed](https://pics.cheesits456.dev/indeed/indeed.jpeg) |
