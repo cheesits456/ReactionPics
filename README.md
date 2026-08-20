@@ -94,7 +94,6 @@ All files in the `images` folder can be linked to using `https://pics.cheesits45
 | vibing.gif | <https://pics.cheesits456.dev/vibing> | ![Vibing](https://pics.cheesits456.dev/vibing/vibing.gif) |
 | victory.jpeg | <https://pics.cheesits456.dev/victory> | ![Victory](https://pics.cheesits456.dev/victory/victory.jpeg) |
 | wack.jpeg | <https://pics.cheesits456.dev/wack> | ![Wack](https://pics.cheesits456.dev/wack/wack.jpeg) |
-| wallpaper.jpeg | <https://pics.cheesits456.dev/wallpaper> | ![Wallpaper](https://pics.cheesits456.dev/wallpaper/wallpaper.jpeg) |
 | wat.jpeg | <https://pics.cheesits456.dev/wat> | ![Wat](https://pics.cheesits456.dev/wat/wat.jpeg) |
 | wave.gif | <https://pics.cheesits456.dev/wave> | ![Wave](https://pics.cheesits456.dev/wave/wave.gif) |
 | welp.jpeg | <https://pics.cheesits456.dev/welp> | ![Welp](https://pics.cheesits456.dev/welp/welp.jpeg) |
