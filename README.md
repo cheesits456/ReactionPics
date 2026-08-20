@@ -99,6 +99,7 @@ All files in the `images` folder can be linked to using `https://pics.cheesits45
 | wat.jpeg | <https://pics.cheesits456.dev/wat> | ![Wat](https://pics.cheesits456.dev/wat/wat.jpeg) |
 | wave.gif | <https://pics.cheesits456.dev/wave> | ![Wave](https://pics.cheesits456.dev/wave/wave.gif) |
 | welp.jpeg | <https://pics.cheesits456.dev/welp> | ![Welp](https://pics.cheesits456.dev/welp/welp.jpeg) |
+| what.jpeg | <https://pics.cheesits456.dev/what> | ![What](https://pics.cheesits456.dev/what/what.jpeg) |
 | wheeze.gif | <https://pics.cheesits456.dev/wheeze> | ![Wheeze](https://pics.cheesits456.dev/wheeze/wheeze.gif) |
 | who.jpeg | <https://pics.cheesits456.dev/who> | ![Who](https://pics.cheesits456.dev/who/who.jpeg) |
 | why.jpeg | <https://pics.cheesits456.dev/why> | ![Why](https://pics.cheesits456.dev/why/why.jpeg) |
