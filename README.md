@@ -88,6 +88,7 @@ All files in the `images` folder can be linked to using `https://pics.cheesits45
 | sniff.jpeg | <https://pics.cheesits456.dev/sniff> | ![Sniff](https://pics.cheesits456.dev/sniff/sniff.jpeg) |
 | stonks.jpeg | <https://pics.cheesits456.dev/stonks> | ![Stonks](https://pics.cheesits456.dev/stonks/stonks.jpeg) |
 | stop.jpeg | <https://pics.cheesits456.dev/stop> | ![Stop](https://pics.cheesits456.dev/stop/stop.jpeg) |
+| stupid.jpeg | <https://pics.cheesits456.dev/stupid> | ![Stupid](https://pics.cheesits456.dev/stupid/stupid.jpeg) |
 | thanks.gif | <https://pics.cheesits456.dev/thanks> | ![Thanks](https://pics.cheesits456.dev/thanks/thanks.gif) |
 | thonk.jpeg | <https://pics.cheesits456.dev/thonk> | ![Thonk](https://pics.cheesits456.dev/thonk/thonk.jpeg) |
 | typing.gif | <https://pics.cheesits456.dev/typing> | ![Typing](https://pics.cheesits456.dev/typing/typing.gif) |
