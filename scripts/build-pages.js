@@ -70,7 +70,7 @@ if (["Create", "Update"].includes(process.argv[2])) {
 	// Load template to variable as a string
 	const dir = fs.readdirSync("./ReactionPics/images");
 	let readme = fs.readFileSync("./ReactionPics/templates/README.md", "utf8");
-	readme += `\n### Examples: _(**${dir.length()}** images)_\n\n| Filename | Link | Image |\n| -------- | ---- | ----- |\n`;
+	readme += `\n### Examples: _(**${dir.length}** images)_\n\n| Filename | Link | Image |\n| -------- | ---- | ----- |\n`;
 
 	// Loop through all image filenames and append to template, formatted as a markdown table
 	for (const filename of dir) {
