@@ -45,6 +45,8 @@ switch (process.argv[2]) { // First word of commit message
 	case "Delete":
 		const file = process.argv[3]; // filename
 		const [name, format] = file.split(".");
+		
+		console.log(`Deleting index.html file for ${file} along with associated folder`);
 		fs.rmSync(`./${name}`, { recursive: true, force: true });
 		break;
 
