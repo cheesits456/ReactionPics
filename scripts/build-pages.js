@@ -45,7 +45,7 @@ switch (process.argv[2]) { // First word of commit message
 	case "Delete":
 		const file = process.argv[3]; // filename
 		const [name, format] = file.split(".");
-		fs.unlinkSync(`./${name}`);
+		fs.rmSync(`./${name}`, { recursive: true, force: true });
 		break;
 
 	case "Update":
