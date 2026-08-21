@@ -42,6 +42,12 @@ switch (process.argv[2]) { // First word of commit message
 
 		break;
 
+	case "Delete":
+		const file = process.argv[3]; // filename
+		const [name, format] = file.split(".");
+		fs.unlinkSync(`./${name}`);
+		break;
+
 	case "Update":
 		// If changed file is existing image, replace it with the new one
 		if (fs.existsSync(`./ReactionPics/images/${process.argv[3]}`)) {
