@@ -1,15 +1,16 @@
 /*
 
-+-------------------+---------------------------------------------------------------+
-|   Variable name   |                          Description                          |
-+-------------------+---------------------------------------------------------------+
-|  process.argv[2]  |  First word of commit message; typically 'Create' when a new  |
-|                   |  image is added, or 'Update' when an image is modified        |
-+-------------------+---------------------------------------------------------------+
-|                   |  Second word of commit message; when first word is 'Create"   |
-|  process.argv[3]  |  or 'Update', this will be the name of the created or         |
-|                   |  modified file                                                |
-+-------------------+---------------------------------------------------------------+
++-------------------+------------------------------------------------------------------+
+|   Variable name   |                           Description                            |
++-------------------+------------------------------------------------------------------+
+|                   |  First word of commit message; typically 'Create' when a new     |
+|  process.argv[2]  |  image is added, 'Delete' when an image is removed, or 'Update'  |
+|                   |  when an image is modified                                       |
++-------------------+------------------------------------------------------------------+
+|                   |  Second word of commit message; when first word is 'Create",     |
+|  process.argv[3]  |  'Delete', or 'Update', this will be the name of the created or  |
+|                   |  modified file                                                   |
++-------------------+------------------------------------------------------------------+
 
 */
 
