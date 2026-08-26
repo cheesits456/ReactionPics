@@ -1,8 +1,7 @@
 ---
 ---
 
-@import "{{ site.theme }}";
+$header-bg-color: #e722e7 !default;
+$header-bg-color-secondary: #2c75ff !default;
 
-h1 {
-    font-size: 50pt;
-}
+@import "{{ site.theme }}";
