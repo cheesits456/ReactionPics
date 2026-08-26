@@ -1,4 +1,4 @@
-# Reaction Pics
+# About
 
 ## Mitigation of Large File Sizes:
 
