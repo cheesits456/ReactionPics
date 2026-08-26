@@ -16,7 +16,7 @@
 
 String.prototype.capitalize = function() {
 	return String(this).charAt(0).toUpperCase() + String(this).slice(1);
-}
+};
 
 const fs = require("fs");
 
@@ -69,7 +69,7 @@ switch (process.argv[2]) { // First word of commit message
 
 // Build new README.md file for pics.cheesits456.dev homepage if needed
 if (["Create", "Delete", "Update"].includes(process.argv[2])) {
-	console.log("Building site landing page")
+	console.log("Building site landing page");
 	// Load template to variable as a string
 	const dir = fs.readdirSync("./ReactionPics/images");
 	let readme = fs.readFileSync("./ReactionPics/templates/README.md", "utf8");
@@ -78,12 +78,12 @@ if (["Create", "Delete", "Update"].includes(process.argv[2])) {
 	// Loop through all image filenames and append to template, formatted as a markdown table
 	for (const filename of dir) {
 		const [name, format] = filename.split(".");
-		const link = `https://pics.cheesits456.dev/${name}`
+		const link = `https://pics.cheesits456.dev/${name}`;
 		readme += `| ${filename} | <${link}> | ![${name.capitalize()}](${link}/${filename}) |\n`;
-	}
+	};
 
 	fs.writeFileSync("./README.md", readme, "utf8");
 
-}
+};
 
 console.log("Done!");
