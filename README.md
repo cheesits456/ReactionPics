@@ -46,8 +46,10 @@ All files in the `images` folder can be linked to using `https://pics.cheesits45
 
 ### Examples:
 
-| Link:                                | Result:                                                |
-| ------------------------------------ | ------------------------------------------------------ |
-| <https://pics.cheesits456.dev/dab>   | ![Dab](https://pics.cheesits456.dev/dab/dab.jpeg)      |
-| <https://pics.cheesits456.dev/dunno> | ![Dunno](https://pics.cheesits456.dev/dunno/dunno.gif) |
-| <https://pics.cheesits456.dev/no>    | ![No](https://pics.cheesits456.dev/no/no.jpeg)         |
+|   Filename   |                  Link                  |                             Image                             |
+| ------------ | -------------------------------------- | ------------------------------------------------------------- |
+| blorp.jpeg   | <https://pics.cheesits456.dev/blorp>   | ![Blorp](https://pics.cheesits456.dev/blorp/blorp.jpeg)       |
+| dunno.gif    | <https://pics.cheesits456.dev/dunno>   | ![Dunno](https://pics.cheesits456.dev/dunno/dunno.gif)        |
+| no.jpeg      | <https://pics.cheesits456.dev/no>      | ![No](https://pics.cheesits456.dev/no/no.jpeg)                |
+| perhaps.jpeg | <https://pics.cheesits456.dev/perhaps> | ![Perhaps](https://pics.cheesits456.dev/perhaps/perhaps.jpeg) |
+| stupid.jpeg  | <https://pics.cheesits456.dev/stupid>  | ![Stupid](https://pics.cheesits456.dev/stupid/stupid.jpeg)    |
