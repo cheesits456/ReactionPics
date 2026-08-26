@@ -1,5 +1,9 @@
 # Reaction Pics
 
+My personal folder of reaction images that I use in conversation on Discord and various other chat platforms
+
+# About
+
 ## Mitigation of Large File Sizes:
 
 Outlined below are some steps that have been taken to reduce the storage size of the image files:
