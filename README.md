@@ -46,6 +46,8 @@ All files in the `images` folder can be linked to using `https://pics.cheesits45
 
 ### Examples:
 
+A full list of examples can be found at <https://pics.cheesits456.dev/#examples>
+
 |   Filename   |                  Link                  |                             Image                             |
 | ------------ | -------------------------------------- | ------------------------------------------------------------- |
 | dunno.gif    | <https://pics.cheesits456.dev/dunno>   | ![Dunno](https://pics.cheesits456.dev/dunno/dunno.gif)        |
