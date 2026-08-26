@@ -1,0 +1,31 @@
+name: CI
+
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  build_pages:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+        with:
+          repository: cheesits456/ReactionPics
+          ref: gh-pages
+      - name: Set up Node
+        uses: actions/setup-node@v2-beta
+        with:
+          node-version: "14.x"
+      - name: Set up environment
+        run: git clone https://github.com/cheesits456/ReactionPics.git
+      - name: Run Node script
+        run: node ./ReactionPics/scripts/build-pages.js ${{ github.event.head_commit.message }}
+      - name: Clean up and push branch
+        run: |
+          rm -rf ./ReactionPics/
+          git config user.name cheesbot456
+          git config user.email quin@cheesits456.dev
+          echo `git add . && git commit -m "${{ github.event.head_commit.message }}"`
+          git push
+          echo Done!
