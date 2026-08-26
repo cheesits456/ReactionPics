@@ -6,4 +6,7 @@ $header-bg-color-secondary: #2c75ff !default;
 
 $section-headings-color: #2c75ff !default;
 
+$code-bg-color: #e3e6ea !default;
+$code-text-color: black !default;
+
 @import "{{ site.theme }}";
