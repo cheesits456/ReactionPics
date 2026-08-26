@@ -1,10 +1,6 @@
-# ReactionPics
+# About
 
-My personal folder of reaction images that I use in conversation on Discord and various other chat platforms
-
-## About
-
-### Mitigation of Large File Sizes:
+## Mitigation of Large File Sizes:
 
 Outlined below are some steps that have been taken to reduce the storage size of the image files:
 
@@ -13,14 +9,14 @@ Outlined below are some steps that have been taken to reduce the storage size of
 - Lossy compression is applied to every frame of each GIF
 - Images are scaled to a height of 200 pixels to reduce file size and to reduce the vertical space taken up by the image when sent in a chat
 
-## Usage
+# Usage
 
-### How To:
+## How To:
 
 All files in the `images` folder can be linked to using `https://pics.cheesits456.dev/name`, where `name` is replaced with the name of the image you wish to link to. In order to reduce the amount of unneeded text in your message, the `gh-pages` repository is generated in such a way that you don't need to include the file extension for it to properly link to and embed the image in a chat program. This has the added benefit that you don't have to know in advance whether the image is animated or not, so you won't have to remember whether to use `.jpeg` or `.gif` in your link.
 
-### Examples:
-<sup>(<strong>91</strong> images)</sup>
+## Examples:
+<sup>(<strong>92</strong> images)</sup>
 
 | Filename | Link | Image |
 | -------- | ---- | ----- |
@@ -95,6 +91,7 @@ All files in the `images` folder can be linked to using `https://pics.cheesits45
 | vibing.gif | <https://pics.cheesits456.dev/vibing> | ![Vibing](https://pics.cheesits456.dev/vibing/vibing.gif) |
 | victory.jpeg | <https://pics.cheesits456.dev/victory> | ![Victory](https://pics.cheesits456.dev/victory/victory.jpeg) |
 | wack.jpeg | <https://pics.cheesits456.dev/wack> | ![Wack](https://pics.cheesits456.dev/wack/wack.jpeg) |
+| wallpaper.jpeg | <https://pics.cheesits456.dev/wallpaper> | ![Wallpaper](https://pics.cheesits456.dev/wallpaper/wallpaper.jpeg) |
 | wat.jpeg | <https://pics.cheesits456.dev/wat> | ![Wat](https://pics.cheesits456.dev/wat/wat.jpeg) |
 | wave.gif | <https://pics.cheesits456.dev/wave> | ![Wave](https://pics.cheesits456.dev/wave/wave.gif) |
 | welp.jpeg | <https://pics.cheesits456.dev/welp> | ![Welp](https://pics.cheesits456.dev/welp/welp.jpeg) |
