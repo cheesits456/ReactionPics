@@ -14,7 +14,7 @@
 
 */
 
-String.prototype.capitalize = function() {
+String.prototype.capitalize = function () {
 	return String(this).charAt(0).toUpperCase() + String(this).slice(1);
 };
 
@@ -31,7 +31,7 @@ switch (process.argv[2]) { // First word of commit message
 			const [name, format] = file.split(".");
 
 			console.log(`Creating directory for ${file}`);
-			try { fs.mkdirSync(`./${name}`) } catch (err) {};
+			try { fs.mkdirSync(`./${name}`) } catch (err) { };
 
 			console.log(`Copying ${file} to new directory`);
 			fs.copyFileSync(`./ReactionPics/images/${file}`, `./${name}/${file}`);
@@ -46,7 +46,7 @@ switch (process.argv[2]) { // First word of commit message
 	case "Delete":
 		const file = process.argv[3]; // filename
 		const [name, format] = file.split(".");
-		
+
 		console.log(`Deleting index.html file for ${file} along with associated folder`);
 		fs.rmSync(`./${name}`, { recursive: true, force: true });
 		break;
@@ -56,7 +56,6 @@ switch (process.argv[2]) { // First word of commit message
 		if (fs.existsSync(`./ReactionPics/images/${process.argv[3]}`)) {
 			console.log(`Replacing ${process.argv[3]} in gh-pages branch`);
 			fs.copyFileSync(`./ReactionPics/images/${process.argv[3]}`, `./${process.argv[3].split(".")[0]}/${process.argv[3]}`);
-
 		} else console.log("Nothing to do");
 
 		break;
