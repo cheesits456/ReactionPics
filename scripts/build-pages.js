@@ -51,6 +51,34 @@ switch (action) { // First word of commit message
 		if (fs.existsSync(`./${name}`)) fs.rmSync(`./${name}`, { force: true, recursive: true });
 		break;
 
+
+	case "Replace":
+		const oldFile = process.argv[3];
+		const newFile = process.argv[5];
+		const [oldName, oldFormat] = oldFile.split(".");
+		const [newName, newFormat] = newFile.split(".");
+
+		console.log(`Replacing ${oldFile} with ${newFile}`);
+		if (fs.existsSync(`./ReactionPics/images/${newFile}`)) {
+
+			console.log(`Deleting index.html file for ${oldFile} along with associated folder`);
+			if (fs.existsSync(`./${oldName}`)) fs.rmSync(`./${oldName}`, { force: true, recursive: true });
+
+			console.log(`Creating directory for ${newFile}`);
+			try { fs.mkdirSync(`./${newName}`) } catch (err) { };
+
+			console.log(`Copying ${newFile} to new directory`);
+			fs.copyFileSync(`./ReactionPics/images/${newFile}`, `./${newName}/${newFile}`);
+			
+			console.log(`Creating index.html file for ${file}`);
+			fs.writeFileSync(`./${newName}/index.html`, template.replace(/{name}/g, newName).replace(/{format}/g, newFormat), "utf8");
+
+		} else console.log(`Nothing to do (${newFile} doesn't exist)`);
+
+
+		break;
+
+
 	case "Update":
 		// If changed file is existing image, replace it with the new one
 		if (fs.existsSync(`./ReactionPics/images/${process.argv[3]}`)) {
