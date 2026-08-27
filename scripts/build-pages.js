@@ -20,7 +20,10 @@ String.prototype.capitalize = function () {
 
 const fs = require("fs");
 
-switch (process.argv[2]) { // First word of commit message
+const action = process.argv[2];
+const possibleActions = ["Create", "Delete", "Replace", "Update"];
+
+switch (action) { // First word of commit message
 
 	case "Create":
 		// Load template to variable as a string
@@ -67,7 +70,7 @@ switch (process.argv[2]) { // First word of commit message
 };
 
 // Build new README.md file for pics.cheesits456.dev homepage if needed
-if (["Create", "Delete", "Update"].includes(process.argv[2])) {
+if (possibleActions.includes(action)) {
 	console.log("Building site landing page");
 	// Load template to variable as a string
 	const dir = fs.readdirSync("./ReactionPics/images");
