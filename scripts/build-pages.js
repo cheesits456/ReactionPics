@@ -42,7 +42,7 @@ switch (action) { // First word of commit message
 			console.log(`Creating index.html file for ${file}`);
 			fs.writeFileSync(`./${name}/index.html`, template.replace(/{name}/g, name).replace(/{format}/g, format), "utf8");
 
-		} else console.log("Nothing to do");
+		} else console.log(`Nothing to do (${process.argv[3]} doesn't exist)`);
 
 		break;
 
