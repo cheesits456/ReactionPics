@@ -22,13 +22,11 @@ const fs = require("fs");
 
 const action = process.argv[2];
 const possibleActions = ["Create", "Delete", "Replace", "Update"];
+const template = fs.readFileSync("./ReactionPics/templates/image-page.html", "utf8");
 
 switch (action) { // First word of commit message
 
 	case "Create":
-		// Load template to variable as a string
-		const template = fs.readFileSync("./ReactionPics/templates/image-page.html", "utf8");
-
 		if (fs.existsSync(`./ReactionPics/images/${process.argv[3]}`)) {
 			const file = process.argv[3]; // filename
 			const [name, format] = file.split(".");
