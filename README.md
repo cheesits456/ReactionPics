@@ -34,7 +34,7 @@ All files in the `images` folder can be linked to using `https://pics.cheesits45
 | confused.jpeg | <https://pics.cheesits456.dev/confused> | ![Confused](https://pics.cheesits456.dev/confused/confused.jpeg) |
 | cute.jpeg | <https://pics.cheesits456.dev/cute> | ![Cute](https://pics.cheesits456.dev/cute/cute.jpeg) |
 | dab.jpeg | <https://pics.cheesits456.dev/dab> | ![Dab](https://pics.cheesits456.dev/dab/dab.jpeg) |
-| dafuq.jpeg | <https://pics.cheesits456.dev/dafuq> | ![Dafuq](https://pics.cheesits456.dev/dafuq/dafuq.jpeg) |
+| dafuq1.jpeg | <https://pics.cheesits456.dev/dafuq1> | ![Dafuq1](https://pics.cheesits456.dev/dafuq1/dafuq1.jpeg) |
 | derp.jpeg | <https://pics.cheesits456.dev/derp> | ![Derp](https://pics.cheesits456.dev/derp/derp.jpeg) |
 | developer.jpeg | <https://pics.cheesits456.dev/developer> | ![Developer](https://pics.cheesits456.dev/developer/developer.jpeg) |
 | dont.jpeg | <https://pics.cheesits456.dev/dont> | ![Dont](https://pics.cheesits456.dev/dont/dont.jpeg) |
