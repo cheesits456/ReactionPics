@@ -50,8 +50,8 @@ A full list of examples can be found at <https://pics.cheesits456.dev/#examples>
 
 |   Filename   |                  Link                  |                             Image                             |
 | ------------ | -------------------------------------- | ------------------------------------------------------------- |
-| dunno.gif    | <https://pics.cheesits456.dev/dunno>   | ![Dunno](https://pics.cheesits456.dev/dunno/dunno.gif)        |
 | no.jpeg      | <https://pics.cheesits456.dev/no>      | ![No](https://pics.cheesits456.dev/no/no.jpeg)                |
 | perhaps.jpeg | <https://pics.cheesits456.dev/perhaps> | ![Perhaps](https://pics.cheesits456.dev/perhaps/perhaps.jpeg) |
+| shrug.gif    | <https://pics.cheesits456.dev/shrug>   | ![Shrug](https://pics.cheesits456.dev/shrug/shrug.gif)        |
 | thanks.gif   | <https://pics.cheesits456.dev/thanks>  | ![Thanks](https://pics.cheesits456.dev/thanks/thanks.gif )    |
 | wat.jpeg     | <https://pics.cheesits456.dev/wat>     | ![Wat](https://pics.cheesits456.dev/wat/wat.jpeg)             |
