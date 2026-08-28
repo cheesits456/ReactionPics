@@ -11,6 +11,10 @@
 |  process.argv[3]  |  'Delete', or 'Update', this will be the name of the created or  |
 |                   |  modified file                                                   |
 +-------------------+------------------------------------------------------------------+
+|                   |  In the case where the first word of the commit message is       |
+|  process.argv[5]  |  'Replace', this will be the name of the new file, and           |
+|                   |  process.argv[3] will be the name of the file being replaced     |
++-------------------+------------------------------------------------------------------+
 
 */
 
