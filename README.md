@@ -24,9 +24,9 @@ My personal folder of reaction images that I use in conversation on Discord and 
 Outlined below is an overview of this repository's two branches, and some key folders within them:
 
 - **`master` branch -** main branch containing all the code required to make things work
-  - **`images` folder -** contains all of the reaction images
-  - **`scripts` folder -** contains scripts relating to the automatic generation and deployment of configs and the site that hosts the image files
-  - **`templates` folder -** contains the templates used by `build-pages.js` to generate the page structure for the `gh-pages` branch
+  - **`/images` folder -** contains all of the reaction images
+  - **`/scripts` folder -** contains scripts relating to the automatic generation and deployment of configs and the site that hosts the image files
+  - **`/templates` folder -** contains the templates used by `build-pages.js` to generate the page structure for the `gh-pages` branch
 - **`gh-pages` branch -** used for hosting the site that provides links for all the images, as well as a table of all images and some accompanying info on the homepage
 
 ### Mitigation of Large File Sizes:
