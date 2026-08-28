@@ -75,7 +75,6 @@ switch (action) { // First word of commit message
 
 		} else console.log(`Nothing to do (${newFile} doesn't exist)`);
 
-
 		break;
 
 
