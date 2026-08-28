@@ -40,7 +40,6 @@ All files in the `images` folder can be linked to using `https://pics.cheesits45
 | dont.jpeg | <https://pics.cheesits456.dev/dont> | ![Dont](https://pics.cheesits456.dev/dont/dont.jpeg) |
 | doubt.jpeg | <https://pics.cheesits456.dev/doubt> | ![Doubt](https://pics.cheesits456.dev/doubt/doubt.jpeg) |
 | duck.jpeg | <https://pics.cheesits456.dev/duck> | ![Duck](https://pics.cheesits456.dev/duck/duck.jpeg) |
-| dunno.gif | <https://pics.cheesits456.dev/dunno> | ![Dunno](https://pics.cheesits456.dev/dunno/dunno.gif) |
 | facepalm.jpeg | <https://pics.cheesits456.dev/facepalm> | ![Facepalm](https://pics.cheesits456.dev/facepalm/facepalm.jpeg) |
 | fuck.jpeg | <https://pics.cheesits456.dev/fuck> | ![Fuck](https://pics.cheesits456.dev/fuck/fuck.jpeg) |
 | good-morning.jpeg | <https://pics.cheesits456.dev/good-morning> | ![Good-morning](https://pics.cheesits456.dev/good-morning/good-morning.jpeg) |
@@ -83,6 +82,7 @@ All files in the `images` folder can be linked to using `https://pics.cheesits45
 | same.jpeg | <https://pics.cheesits456.dev/same> | ![Same](https://pics.cheesits456.dev/same/same.jpeg) |
 | science.jpeg | <https://pics.cheesits456.dev/science> | ![Science](https://pics.cheesits456.dev/science/science.jpeg) |
 | shh.jpeg | <https://pics.cheesits456.dev/shh> | ![Shh](https://pics.cheesits456.dev/shh/shh.jpeg) |
+| shrug.gif | <https://pics.cheesits456.dev/shrug> | ![Shrug](https://pics.cheesits456.dev/shrug/shrug.gif) |
 | slowclap.gif | <https://pics.cheesits456.dev/slowclap> | ![Slowclap](https://pics.cheesits456.dev/slowclap/slowclap.gif) |
 | smart.jpeg | <https://pics.cheesits456.dev/smart> | ![Smart](https://pics.cheesits456.dev/smart/smart.jpeg) |
 | sniff.jpeg | <https://pics.cheesits456.dev/sniff> | ![Sniff](https://pics.cheesits456.dev/sniff/sniff.jpeg) |
