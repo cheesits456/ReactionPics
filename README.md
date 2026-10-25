@@ -20,7 +20,7 @@ Outlined below are some steps that have been taken to reduce the storage size of
 All files in the `images` folder can be linked to using `https://pics.cheesits456.dev/name`, where `name` is replaced with the name of the image you wish to link to. In order to reduce the amount of unneeded text in your message, the `gh-pages` repository is generated in such a way that you don't need to include the file extension for it to properly link to and embed the image in a chat program. This has the added benefit that you don't have to know in advance whether the image is animated or not, so you won't have to remember whether to use `.jpeg` or `.gif` in your link.
 
 ## Examples:
-<sup>(<strong>92</strong> images)</sup>
+<sup>(<strong>93</strong> images)</sup>
 
 | Filename | Link | Image |
 | -------- | ---- | ----- |
@@ -38,6 +38,7 @@ All files in the `images` folder can be linked to using `https://pics.cheesits45
 | dafuq.jpeg | <https://pics.cheesits456.dev/dafuq> | ![Dafuq](https://pics.cheesits456.dev/dafuq/dafuq.jpeg) |
 | derp.jpeg | <https://pics.cheesits456.dev/derp> | ![Derp](https://pics.cheesits456.dev/derp/derp.jpeg) |
 | developer.jpeg | <https://pics.cheesits456.dev/developer> | ![Developer](https://pics.cheesits456.dev/developer/developer.jpeg) |
+| dewit.jpeg | <https://pics.cheesits456.dev/dewit> | ![Dewit](https://pics.cheesits456.dev/dewit/dewit.jpeg) |
 | dont.jpeg | <https://pics.cheesits456.dev/dont> | ![Dont](https://pics.cheesits456.dev/dont/dont.jpeg) |
 | doubt.jpeg | <https://pics.cheesits456.dev/doubt> | ![Doubt](https://pics.cheesits456.dev/doubt/doubt.jpeg) |
 | duck.jpeg | <https://pics.cheesits456.dev/duck> | ![Duck](https://pics.cheesits456.dev/duck/duck.jpeg) |
